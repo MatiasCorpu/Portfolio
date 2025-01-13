@@ -1,0 +1,52 @@
+[
+  {
+      "id": "c",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg",
+      "alt": "C"
+  },
+  {
+      "id": "sqlServer",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg",
+      "alt": "SQL Server"
+  },
+  {
+      "id": "html",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
+      "alt": "HTML"
+  },
+  {
+      "id": "css",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
+      "alt": "CSS"
+  },
+  {
+      "id": "tailwind",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+      "alt": "Tailwind"
+  },
+  {
+      "id": "javascript",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+      "alt": "JavaScript"
+  },
+  {
+      "id": "react",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+      "alt": "React"
+  },
+  {
+      "id": "python",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+      "alt": "Python"
+  },
+  {
+      "id": "vscode",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
+      "alt": "VSCode"
+  },
+  {
+      "id": "git",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg",
+      "alt": "Git"
+  }
+]
