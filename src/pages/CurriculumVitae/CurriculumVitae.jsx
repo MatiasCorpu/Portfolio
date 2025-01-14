@@ -2,9 +2,7 @@ import React from "react";
 
 function CurriculumVitae() {
   return (
-    <div>
-      <h1>Curriculum Vitae</h1>
-    </div>
+    <img src="src\assets\cv.pdf" alt="Curriculum Vitae" />
   );
 }
 
