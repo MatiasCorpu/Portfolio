@@ -40,7 +40,7 @@ function University() {
         </div>
       </ButtonExpandableContainer>
 
-      <div className="flex flex-col gap-5 pb-24 pt-10 mx-20 max-lg:mx-0">
+      <div className="flex flex-col gap-5 pt-10 mx-20 max-lg:mx-0">
         {Object.keys(groupedItems).map((year) => (
 
           <Card key={year} hoverScaleAnimation={false} className={"flex items-center p-5 min-h-72 max-lg:flex-col"}>

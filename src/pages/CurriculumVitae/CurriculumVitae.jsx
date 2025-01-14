@@ -1,8 +1,13 @@
 import React from "react";
+import ButtonDownload from "./components/ButtonDownload";
 
 function CurriculumVitae() {
   return (
-    <img src="src\assets\cv.pdf" alt="Curriculum Vitae" />
+    <div className="relative w-full flex justify-center items-center">
+      <img src="src\assets\cv.png" alt="Curriculum Vitae" />
+
+      <ButtonDownload />
+    </div>
   );
 }
 

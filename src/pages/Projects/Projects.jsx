@@ -6,7 +6,7 @@ function Projects() {
 
 
   return (
-    <div className="pb-24">
+    <div>
       <div className="w-full flex gap-2 max-lg:flex-col">
         <div className="w-full flex flex-col gap-2">
           <CardProject
